@@ -1,0 +1,11 @@
+forge verify-contract  
+
+  --rpc-url https://mainnet.evm.nodes.onflow.org/  
+
+  --verifier blockscout  
+
+  --verifier-url https://evm.flow.com/api/  
+
+  0x1e9148A53E4300ACAb2aFC3F3664690c9D90BF3D   
+
+  [contractFile]:[contractName]
